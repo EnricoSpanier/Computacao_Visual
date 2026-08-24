@@ -29,5 +29,5 @@ Isso me deixou com uma dúvida que ainda não sei responder: se eu simplesmente 
  
 ---
 [Pagina inicial](index.md)
-<br>
+<br><br>
 [Impressão x Realidade](Post_1.md)
