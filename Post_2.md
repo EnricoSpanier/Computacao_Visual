@@ -30,4 +30,5 @@ Isso me deixou com uma dúvida que ainda não sei responder: se eu simplesmente 
 ---
 [Pagina inicial](index.md)
 <br><br>
+<span class="post-date">15/08/2026</span><br>
 [Impressão x Realidade](Post_1.md)

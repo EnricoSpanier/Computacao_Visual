@@ -21,4 +21,5 @@ Acredito que com o andar da diciplina conseguirei fazer uma maior distinção do
 ---
 [Pagina inicial](index.md)
 <br><br>
+<span class="post-date">24/08/2026</span><br>
 [Uma Pergunta "boba"](Post_2.md)
