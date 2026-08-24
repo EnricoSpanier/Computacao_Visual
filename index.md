@@ -17,3 +17,6 @@ Este blog irá refletir minha passagem pelo material de Computação Visual prop
 ## Posts
 <span class="post-date">15/08/2026</span><br>
 [Impressão x Realidade](Post_1.md) 
+<br>
+<span class="post-date">24/08/2026</span><br>
+[Uma Pergunta "boba"](Post_2.md)
