@@ -15,6 +15,12 @@ Fiquei pensando em quando tiro foto de noite e o celular meio que clareia só as
 
 Isso também explica uma coisa que sempre achei estranha: por que às vezes uma foto perfeita no celular fica toda "lavada" ou esquisita quando eu jogo pra outra tela. Aparentemente cada dispositivo segue essa mesma lei de potência de um jeito levemente diferente na captura e na exibição, e é por isso que existe uma "correção gama" rolando o tempo todo nos bastidores, tentando fazer a imagem parecer igual não importa onde ela seja mostrada.
 
+## E a exposição, onde entra nisso?
+
+Aí me toquei de uma confusão que eu vivia fazendo: brilho e exposição não são a mesma coisa, mesmo os dois mexendo com "quão clara" a foto fica. A exposição é decidida lá na hora de tirar a foto, antes de qualquer curva entrar em cena, e é resultado da combinação entre abertura do diafragma, velocidade do obturador e ISO. É ela que define quanta luz de verdade chega até o sensor e vira aqueles valores de intensidade r que a aula descreve.
+
+A curva de gama, por outro lado, mexe depois que essa luz já virou número. Ela não cria luz nova nem recupera o que nunca chegou ao sensor, só redistribui os valores que já existem, esticando sombra ou comprimindo realce. Isso me fez entender por que uma foto muito subexposta fica difícil de "salvar" só ajustando o slider de brilho: se a exposição errou feio na hora da captura, a informação de detalhe pode nem ter sido registrada, e aí nenhuma curva de gama consegue inventar o que não existe no arquivo original.
+
 ## Fica a curiosidade
 
 Se cada dispositivo já corrige a imagem à sua própria maneira, será que duas pessoas vendo a "mesma" foto em celulares diferentes estão realmente vendo a mesma coisa? Ou será que sempre existe uma pequena mentira de brilho rolando entre uma tela e outra sem a gente nem perceber?
