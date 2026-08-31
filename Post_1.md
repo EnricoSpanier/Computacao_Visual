@@ -23,3 +23,6 @@ Acredito que com o andar da diciplina conseguirei fazer uma maior distinção do
 <br><br>
 <span class="post-date">24/08/2026</span><br>
 [Uma Pergunta "boba"](Post_2.md)
+<br><br>
+<span class="post-date">31/08/2026</span><br>
+[O brilho que eu achava que entendia](Post_3.md)

@@ -32,3 +32,6 @@ Isso me deixou com uma dúvida que ainda não sei responder: se eu simplesmente 
 <br><br>
 <span class="post-date">15/08/2026</span><br>
 [Impressão x Realidade](Post_1.md)
+<br><br>
+<span class="post-date">31/08/2026</span><br>
+[O brilho que eu achava que entendia](Post_3.md)
