@@ -21,7 +21,6 @@ Fiquei pensando: se a borda depende só de uma mudança brusca de cor entre pixe
 <br><br>
 
 ---
----
 [Pagina inicial](index.md)
 <br><br>
 <span class="post-date">15/08/2026</span><br>
