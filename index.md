@@ -3,7 +3,7 @@ layout: default
 title: Computação Visual (2026-02)
 ---
 
-## Enrico Minto Spanier - 10419775
+## Enrico Minto Spanier
 {: .my-name }
 ---
 
