@@ -31,3 +31,6 @@ Fiquei pensando: se a borda depende só de uma mudança brusca de cor entre pixe
 <br><br>
 <span class="post-date">31/08/2026</span><br>
 [O brilho que eu achava que entendia](Post_3.md)
+<br><br>
+<span class="post-date">27/10/2026</span><br>
+[A mesma foto, só que de outro jeito](Post_7.md)
