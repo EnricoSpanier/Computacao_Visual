@@ -37,3 +37,6 @@ Se cada dispositivo já corrige a imagem à sua própria maneira, será que duas
 <br><br>
 <span class="post-date">24/08/2026</span><br>
 [Onde uma coisa termina e a outra começa](Post_4.md)
+<br><br>
+<span class="post-date">27/10/2026</span><br>
+[A mesma foto, só que de outro jeito](Post_7.md)
