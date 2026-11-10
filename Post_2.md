@@ -41,3 +41,6 @@ Isso me deixou com uma dúvida que ainda não sei responder: se eu simplesmente 
 <br><br>
 <span class="post-date">27/10/2026</span><br>
 [A mesma foto, só que de outro jeito](Post_7.md)
+<br><br>
+<span class="post-date">10/11/2026</span><br>
+[Olhando pra trás: o que a pergunta boba me ensinou](Post_8.md)

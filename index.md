@@ -24,7 +24,7 @@ Este blog irá refletir minha passagem pelo material de Computação Visual prop
 <span class="post-date">31/08/2026</span><br>
 [O brilho que eu achava que entendia](Post_3.md)
 <br><br>
-<span class="post-date">24/08/2026</span><br>
+<span class="post-date">15/09/2026</span><br>
 [Onde uma coisa termina e a outra começa](Post_4.md)
 <br><br>
 <span class="post-date">27/10/2026</span><br>

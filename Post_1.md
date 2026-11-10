@@ -27,8 +27,11 @@ Acredito que com o andar da diciplina conseguirei fazer uma maior distinção do
 <span class="post-date">31/08/2026</span><br>
 [O brilho que eu achava que entendia](Post_3.md)
 <br><br>
-<span class="post-date">24/08/2026</span><br>
+<span class="post-date">15/09/2026</span><br>
 [Onde uma coisa termina e a outra começa](Post_4.md)
 <br><br>
 <span class="post-date">27/10/2026</span><br>
 [A mesma foto, só que de outro jeito](Post_7.md)
+<br><br>
+<span class="post-date">10/11/2026</span><br>
+[Olhando pra trás: o que a pergunta boba me ensinou](Post_8.md)

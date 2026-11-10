@@ -46,3 +46,7 @@ Uma coisa que me pegou foi o tamanho do corte. Se o passa-baixa cortar de forma 
 <br><br>
 <span class="post-date">15/09/2026</span><br>
 [Onde uma coisa termina e a outra começa](Post_4.md)
+
+<br><br>
+<span class="post-date">10/11/2026</span><br>
+[Olhando pra trás: o que a pergunta boba me ensinou](Post_8.md)
