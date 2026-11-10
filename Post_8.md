@@ -26,6 +26,8 @@ Se tem um padrão, é este: toda vez que eu achava que entendia algo, a aula mos
 
 Eu comecei o semestre separando as áreas da computação em "a que eu gosto" (back-end) e "a que eu não gosto" (tudo que aparece na tela). Agora essa divisão me parece menos real. Uma imagem é uma matriz, um filtro é uma operação sobre ela, e a Transformada de Fourier é uma mudança de representação dos mesmos dados. Visto assim, é bem mais parecido com o que eu já gostava do que eu imaginava: estrutura de dados, transformação, custo de cada operação.
 
+Isso não quer dizer que virei fã de front-end. Sigo preferindo o back-end, e acho melhor ser sincero sobre isso do que fingir uma conversão completa. O que mudou foi o motivo: o que me atrai continua sendo a lógica por baixo, a estrutura e o custo das coisas, e foi justamente isso que encontrei aqui. Gostei da matéria porque, no fundo, ela me mostrou o lado "de dentro" do que aparece na tela, que é o lado que eu sempre preferi.
+
 Também mudou a forma como eu estudo. Escrever o blog toda semana com o formato "pergunta boba, puxando o fio, curiosidade" me obrigou a ligar o conteúdo novo a algo que eu já tinha pensado antes. Percebi que eu aprendo melhor quando a dúvida vem primeiro e o conceito vem como resposta, e não o contrário. Se eu só tivesse anotado a fórmula do gama, provavelmente teria esquecido na semana seguinte. Como tive que explicar com a história do celular tirando foto de noite, ficou.
 
 ## O que ainda me incomoda
